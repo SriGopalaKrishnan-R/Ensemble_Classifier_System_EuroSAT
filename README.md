@@ -6,10 +6,10 @@ Here the data is uploaded as sample population since the dataset is huge ,for un
 This project focuses on enhancing the analysis of satellite imagery by developing and optimizing a hybrid classifier system. The system integrates multiple machine learning models, including K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest (RF), and XGBoost, to achieve superior performance in land use and land cover classification.
 
 # Achievements
->) Accuracy: 97% after fine-tuning with grid search.
->) Models Used: KNN, SVM, RF, XGBoost.
->) Optimization Libraries: Hyperopt, Optuna.
->) Evaluation Metrics: Overall Accuracy, Precision, Recall,F1-score.
+*) Accuracy: 97% after fine-tuning with grid search.
+*) Models Used: KNN, SVM, RF, XGBoost.
+*) Optimization Libraries: Hyperopt, Optuna.
+*) Evaluation Metrics: Overall Accuracy, Precision, Recall,F1-score.
 
 # Dataset
 The dataset used is the EuroSAT dataset, which consists of satellite images of different land use and land cover categories. The dataset is publicly available and widely used for benchmarking land classification tasks.
